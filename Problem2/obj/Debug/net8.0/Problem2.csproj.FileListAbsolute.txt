@@ -1,0 +1,15 @@
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\bin\Debug\net8.0\Problem2.exe
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\bin\Debug\net8.0\Problem2.deps.json
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\bin\Debug\net8.0\Problem2.runtimeconfig.json
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\bin\Debug\net8.0\Problem2.dll
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\bin\Debug\net8.0\Problem2.pdb
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfoInputs.cache
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfo.cs
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.sourcelink.json
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.dll
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\refint\Problem2.dll
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.pdb
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\Problem2.genruntimeconfig.cache
+C:\Users\Hoda\source\repos\mostafawzy\.NET_Day6\Problem2\obj\Debug\net8.0\ref\Problem2.dll
